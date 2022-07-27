@@ -11,3 +11,4 @@
 * ls 현재 디렉토리의 목록을 파악
 ![image](https://user-images.githubusercontent.com/49769190/181157371-bc572449-c1e9-4f4f-a14c-54fa35867f02.png)
  카메라는 보통 'video0'이다.
+raspi-config /boot/firmware
